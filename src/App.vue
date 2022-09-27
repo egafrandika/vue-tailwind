@@ -10,13 +10,13 @@ import Nav from "./components/Co-man/Nav.vue";
   <body>
     <div class="bg-black pt-3 pb-3">
         <div class="container flex justify-center items-center">
-          <p class="w-[5rem] text-center text-gray-300 text-base font-extraligh cursor-pointer 2xs:text-xs">
+          <p class="w-[5rem] text-center text-gray-300 hover:text-gray-600 text-base font-extraligh cursor-pointer 2xs:text-xs">
            <RouterLink to="/man">MAN</RouterLink>
           </p>
-          <p class="w-[5rem] text-center text-gray-300 text-base font-extraligh cursor-pointer 2xs:text-xs">
+          <p class="w-[5rem] text-center text-gray-300 hover:text-gray-600 text-base font-extraligh cursor-pointer 2xs:text-xs">
             <RouterLink to="/">US</RouterLink>
           </p>
-          <p class="w-[5rem] text-center text-gray-300 text-base font-extraligh cursor-pointer 2xs:text-xs">
+          <p class="w-[5rem] text-center text-gray-300 hover:text-gray-600 text-base font-extraligh cursor-pointer 2xs:text-xs">
             <RouterLink to="/woman">WOMAN</RouterLink>
           </p>
         </div>
