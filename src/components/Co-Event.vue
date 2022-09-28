@@ -1,5 +1,5 @@
 <template>
-  <div class="md:py-20 md:my-auto 2xs:py-6 bg-green-200 md:flex 2xs:flex-wrap my-auto">
+  <div class="md:py-20 md:my-auto 2xs:py-6 bg-[#f3f3f3] md:flex 2xs:flex-wrap my-auto">
     <div class="text-center md:flex mx-auto">
       <div>
         <h1 class="py-2 text-2xl font-serif 2xs:text-xl">REAL BRIDES</h1>
